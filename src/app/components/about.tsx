@@ -26,7 +26,7 @@ export default function About() {
             <div>
               <h3 className="text-2xl font-semibold text-slate-800 mb-4">Who I Am</h3>
               <p className="m-1 text-slate-600 leading-relaxed text-justify">
-                I’m a passionate and results-driven <span className="font-semibold">Java Backend Developer</span> and <span className="font-semibold">Machine Learning enthusiast</span>, currently pursuing <span className="font-semibold">B.Tech in Computer Engineering  at Mumbai University (INFT ’26)</span>. With a Honours in AI/ML, I have a strong foundation in software development and a problem-solving mindset, I enjoy crafting <span className="font-semibold">intuitive web experiences</span>, exploring the potential of <span className="font-semibold">AI/ML</span>, and developing solutions that bridge innovation with impact.
+                I’m a passionate and results-driven <span className="font-semibold">Java Backend Developer</span> and <span className="font-semibold">Machine Learning enthusiast</span>, currently pursuing <span className="font-semibold">B.E in Computer Engineering  at Mumbai University (INFT ’26) With a Honours in AI/ML.</span> I have a strong foundation in software development and a problem-solving mindset, I enjoy crafting <span className="font-semibold">intuitive web experiences</span>, exploring the potential of <span className="font-semibold">AI/ML</span>, and developing solutions that bridge innovation with impact.
               </p>
 
             </div>
