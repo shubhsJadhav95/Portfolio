@@ -31,6 +31,7 @@ import {
   SiHelm,
   SiSpringboot,
   SiSpring,
+  SiKeras,
 } from 'react-icons/si';
 
 const techCategories = [
@@ -70,6 +71,7 @@ const techCategories = [
       { name: 'TensorFlow', icon: <SiTensorflow size={32} className="text-orange-500" /> },
       { name: 'Scikit-learn', icon: <SiScikitlearn size={32} className="text-orange-400" /> },
       { name: 'Pandas', icon: <SiPandas size={32} className="text-indigo-400" /> },
+      { name: 'Keras', icon: <SiKeras size={32} className="text-red-500" /> },
       { name: 'Jupyter', icon: <SiJupyter size={32} className="text-orange-500" /> },
     ],
   },
