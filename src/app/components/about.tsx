@@ -44,7 +44,7 @@ export default function About() {
                   <ul className="space-y-4 text-slate-600">
                     {[
                       "🎓 B.E. Computer Engineering at Mumbai University ",
-                      "📓 CGPA: 8.92/10 (Up to 6th Semesters)",
+                      "📓 CGPA: 8.82/10 (Up to 7th Semesters)",
                       "🗣️ Problem Solving & team collaboration skills",
                     ].map((item, idx) => (
                       <li key={idx} className="flex items-center gap-3">
