@@ -42,7 +42,6 @@ const techCategories = [
       { name: 'Python', icon: <SiPython size={32} className="text-blue-400" /> },
       { name: 'C', icon: <SiC size={32} className="text-blue-400" /> },
       { name: 'C++', icon: <SiCplusplus size={32} className="text-blue-500" /> },
-      { name: 'JavaScript', icon: <SiJavascript size={32} className="text-yellow-400" /> },
 
     ],
   },
@@ -61,7 +60,6 @@ const techCategories = [
       { name: 'Spring Boot', icon: <SiSpringboot size={32} className="text-green-500" /> },
       { name: 'Spring', icon: <SiSpring size={32} className="text-green-500" /> },
       { name: 'React', icon: <SiReact size={32} className="text-cyan-400" /> },
-      { name: 'Next.js', icon: <SiNextdotjs size={32} className="text-slate-300" /> },
       { name: 'Tailwind CSS', icon: <SiTailwindcss size={32} className="text-teal-400" /> },
     ],
   },
@@ -71,8 +69,7 @@ const techCategories = [
       { name: 'TensorFlow', icon: <SiTensorflow size={32} className="text-orange-500" /> },
       { name: 'Scikit-learn', icon: <SiScikitlearn size={32} className="text-orange-400" /> },
       { name: 'Pandas', icon: <SiPandas size={32} className="text-indigo-400" /> },
-      { name: 'Keras', icon: <SiKeras size={32} className="text-red-500" /> },
-      { name: 'Jupyter', icon: <SiJupyter size={32} className="text-orange-500" /> },
+  
     ],
   },
   {

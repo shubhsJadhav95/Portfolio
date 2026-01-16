@@ -77,7 +77,7 @@ export default function Footer() {
           <div className="md:col-span-4 lg:col-span-3">
              <h3 className="text-slate-800 font-semibold mb-4">Get in Touch</h3>
              <a 
-                href="mailto:shravanirasam0212@gmail.com"
+                href="mailto:shubhsjadhav01@gmail.com"
                 className="group inline-flex items-center text-violet-600 font-medium hover:text-violet-800 transition-colors duration-300 mb-6"
               >
                 <span>shubhsjadhav01@gmail.com</span>
