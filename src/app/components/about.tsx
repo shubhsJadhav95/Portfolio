@@ -65,7 +65,7 @@ export default function About() {
 
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                 <a
-                  href="https://www.linkedin.com/in/shravanirasam02"
+                  href="https://www.linkedin.com/in/shubham-jadhav-2aa1a0321/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-3 hover:bg-violet-50 p-2 rounded-md transition"
