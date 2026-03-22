@@ -24,11 +24,11 @@ export default function Hero() {
                         <div className="mx-auto w-28 h-28 relative">
                             <div className="absolute inset-0 bg-gradient-to-r from-violet-600 to-indigo-600 rounded-full blur-lg opacity-30"></div>
                             <div className="relative w-full h-full bg-slate-800/60 rounded-full flex items-center justify-center border-2 border-slate-700">
-                                <img
+                                {/* <img
                                     src="/shubhs.png"
                                     alt="Profile"
                                     className="w-full h-full object-cover rounded-full"
-                                />
+                                /> */}
                             </div>
                         </div>
                     </div>
